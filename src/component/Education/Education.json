@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "/education/school.png",
+    "school": "Geeta Anand Senior Secondary School, Sheoganj, Sirohi, Rajasthan",
+    "date": "2019 - 2020",
+    "percentage": "77.17%",
+    "description": "Completed 10th grade under Rajasthan Board with strong academic performance in Science and Mathematics."
+  },
+  {
+    "id": 2,
+    "img": "/education/school.png",
+    "school": "Geeta Anand Senior Secondary School, Sheoganj, Sirohi, Rajasthan",
+    "date": "2021 - 2022",
+    "percentage": "77.20%",
+    "description": "Completed 12th Science stream (PCM) under Rajasthan Board with focus on Physics, Chemistry, and Mathematics."
+  },
+  {
+    "id": 3,
+    "img": "/education/silverOak.jpg",
+    "school": "Silver Oak University, Ahmedabad, Gujarat",
+    "date": "2023 - Present",
+    "percentage": "CPI: 9.47",
+    "description": "Currently pursuing B.Tech in Computer Science from Silver Oak University. In 5th semester with focus on full-stack development, data structures, and database management."
+  }
+]

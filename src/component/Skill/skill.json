@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "img": "/skill/frontend.png",
+    "header": "Frontend",
+    "description": "Building responsive, accessible UIs with modern web tech.",
+    "skills": [
+      { "name": "HTML5", "logo": "/skill/html.png" },
+      { "name": "CSS3", "logo": "/skill/css.png" },
+      { "name": "JavaScript", "logo": "/skill/js.png" },
+      { "name": "React", "logo": "/skill/react.png" },
+      { "name": "Tailwind CSS", "logo": "/skill/tailwind.jpeg" }
+    ]
+  },
+  {
+    "id": 1,
+    "img": "/skill/backend.png",
+    "header": "Backend",
+    "description": "Designing robust APIs and scalable server‑side logic.",
+    "skills": [
+      { "name": "Node.js", "logo": "/skill/node.png" },
+      { "name": "Express.js", "logo": "/skill/express.png" },
+      { "name": "MongoDB", "logo": "/skill/mongo.png" },
+      { "name": "SQL", "logo": "/skill/sql.png" }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "/skill/tools.png",
+    "header": "Tools",
+    "description": "Tools I use for version control, API testing, and AI-assisted development.",
+    "skills": [
+      { "name": "Git Bash", "logo": "/skill/git-bash.png" },
+      { "name": "GitHub", "logo": "/skill/github.png" },
+      { "name": "Postman", "logo": "/skill/postman.png" },
+      { "name": "ChatGPT", "logo": "/skill/chatgpt.png" },
+      { "name": "DeepSeek", "logo": "/skill/deepseek.png" }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "/skill/otherLanguages.png",
+    "header": "Languages",
+    "description": "Languages I’ve worked with for problem-solving and DSA.",
+    "skills": [
+      { "name": "C", "logo": "/skill/c.png" },
+      { "name": "C++", "logo": "/skill/cpp.png" }
+    ]
+  }
+]

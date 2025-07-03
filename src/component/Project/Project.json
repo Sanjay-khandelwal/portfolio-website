@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "React Currency Converter",
+    "description": "Real‑time currency converter built with React, Vite, and Tailwind CSS; fetches live exchange rates and is auto‑deployed on Netlify.",
+    "images": "/project/currency.png",
+    "tag": ["React", "Tailwind", "API"],
+    "github": "https://github.com/Sanjay-khandelwal/ReactProject",
+    "webapp": "https://procurrency.netlify.app"
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "description": "Responsive weather dashboard in vanilla JavaScript that shows current conditions via the OpenWeatherMap API.",
+    "images": "/project/weather.png",
+    "tag": ["HTML", "CSS", "JavaScript", "API"],
+    "github": "https://github.com/Sanjay-khandelwal/weather-app",
+    "webapp": "https://climesync.netlify.app"
+  },
+  {
+    "id": 3,
+    "title": "Linear Gradient Generator",
+    "description": "Interactive tool to craft CSS linear gradients, preview them live, and copy the code with one click.",
+    "images":"/project/gradient.png",
+    "tag": ["HTML", "CSS", "JavaScript", "DOM"],
+    "github": "https://github.com/Sanjay-khandelwal/linearGradientgenerator",
+    "webapp": "https://linear-gradient-gen.netlify.app"
+  },
+  {
+    "id": 4,
+    "title": "Product Branding Website",
+    "description": "Fully responsive single‑page shopping site with modern UI interactions, built in pure HTML, CSS, and JavaScript.",
+    "images": "/project/prodect.png",
+    "tag": ["HTML", "CSS", "JavaScript", "Responsive"],
+    "github": "https://github.com/Sanjay-khandelwal/prodectBranding",
+    "webapp": "https://prodectbranding.netlify.app"
+  },
+  {
+    "id": 5,
+    "title": "Password Generator",
+    "description": "Secure password generator built in React; lets users choose length and character sets and copy results to the clipboard.",
+    "images": "/project/password.png",
+    "tag": ["React", "JavaScript", "Tailwind CSS"],
+    "github": "https://github.com/Sanjay-khandelwal/PasswordGenerator",
+    "webapp": "https://strong-password-generat.netlify.app"
+  }
+]
+
